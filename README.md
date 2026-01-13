@@ -14,7 +14,9 @@ proposed, a dual-pathway architecture for ADHD classification and micro-temporal
 ### Paso 1: Descargar
 
 # descargar y extraer el ZIP
+# descargar modelos: https://drive.google.com/drive/folders/1WTndymEbd0FAsJw9NiUI0lTkDJSxouzv?usp=drive_link
 # copiar el folder principal (EEG_ADHD_v5) al proyecto
+# copiar los modelos dentro del folder models a el folder principal EEG_ADHD_v5
 
 # 1. Crear entorno virtual (recomendado):
 #    python -m venv venv
