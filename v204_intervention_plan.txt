@@ -1,0 +1,118 @@
+================================================================================
+PLAN DE INTERVENCIÓN EDUCATIVA PERSONALIZADO
+================================================================================
+
+INFORMACIÓN DEL ESTUDIANTE
+--------------------------------------------------------------------------------
+ID: v204
+Diagnóstico: ADHD (probabilidad: 98.72%)
+Perfil Dominante: Atención Sostenida Estable
+Severidad: Normal (score: 9.1)
+Fecha de creación: 2025-12-23T13:43:24.830735
+
+ANÁLISIS DE NECESIDADES
+--------------------------------------------------------------------------------
+Nivel de severidad: Normal
+
+Desafíos principales:
+  • Dificultades de autorregulación
+  • Rigidez cognitiva
+
+Fortalezas:
+  • Buena atención sostenida en periodos cortos
+  • Buena capacidad de recuperación
+
+ESTRATEGIAS RECOMENDADAS
+================================================================================
+
+🔴 PRIORIDAD ALTA (Implementar inmediatamente):
+--------------------------------------------------------------------------------
+
+1. ENV1: Ubicación Estratégica
+   Categoría: Ambiental
+   Evidencia: Alto
+   Impacto esperado: Incremento de atención
+   Descripción: Colocar al estudiante cerca del profesor, lejos de distracciones (ventanas, puertas, compañeros disruptivos)
+   Implementación:
+     • Sentar al estudiante en las primeras filas
+     • Posición cerca del escritorio del profesor
+     • Evitar asientos cerca de ventanas o puertas
+     • Alejar de estudiantes con comportamiento disruptivo
+     • Considerar asiento junto a estudiantes modelo
+   Materiales: Reorganización del salón
+
+2. BEH1: Reforzamiento Positivo
+   Categoría: Conductual
+   Evidencia: Alto
+   Impacto esperado: Incremento de comportamiento deseado
+   Descripción: Sistema de recompensas por comportamientos y logros específicos
+   Implementación:
+     • Establecer sistema de puntos o fichas
+     • Proporcionar retroalimentación positiva inmediata
+     • Usar refuerzos tangibles e intangibles
+     • Celebrar pequeños logros frecuentemente
+     • Mantener ratio alto de comentarios positivos vs negativos (5:1)
+   Materiales: Sistema de puntos, Recompensas, Gráficas de progreso
+
+
+🟡 PRIORIDAD MODERADA (Implementar en 2-4 semanas):
+--------------------------------------------------------------------------------
+
+1. INS2: Instrucciones Multimodales
+   Impacto esperado: Incremento de comprensión
+   Descripción: Presentar información usando múltiples modalidades (visual, auditiva, kinestésica)
+
+2. INS4: Organizadores Gráficos
+   Impacto esperado: Incremento de comprensión y organización
+   Descripción: Usar mapas conceptuales, diagramas y estructuras visuales
+
+3. BEH2: Auto-monitoreo
+   Impacto esperado: Incremento de motivación, auto-conciencia y auto-regulación
+   Descripción: Enseñar al estudiante a monitorear y registrar su propio comportamiento
+
+4. MOV2: Asiento Flexible
+   Impacto esperado: Reducción de inquietud, incremento de tiempo en tarea
+   Descripción: Opciones de asientos alternativos que permiten movimiento
+
+
+🟢 ESTRATEGIAS SUPLEMENTARIAS (Considerar después de 1-2 meses):
+--------------------------------------------------------------------------------
+1. COG2: Estrategias Mnemotécnicas
+2. TEC1: Herramientas Digitales
+
+
+LÍNEA DE TIEMPO DE IMPLEMENTACIÓN
+================================================================================
+
+Fase 1 (Semana 1-2): ENV1, BEH1
+Fase 2 (Semana 3-6): INS2, INS4, BEH2, MOV2
+Fase 3 (2-6 meses): COG2, TEC1
+
+
+PLAN DE MONITOREO
+================================================================================
+Frecuencia: Semanal durante primer mes, luego quincenal
+
+Métricas a evaluar:
+  • Completación de tareas
+  • Tiempo en tarea
+  • Calidad del trabajo
+  • Comportamiento en clase
+  • Auto-reporte del estudiante
+
+Criterios de ajuste: Revisar y ajustar si no hay mejoría en 4 semanas
+
+
+COLABORACIÓN PADRES-MAESTROS
+================================================================================
+Frecuencia de comunicación: Semanal
+
+Extensión al hogar:
+  • Reforzamiento Positivo: Aplicar Reforzamiento Positivo en contexto del hogar
+  • Auto-monitoreo: Aplicar Auto-monitoreo en contexto del hogar
+  • Estrategias Mnemotécnicas: Aplicar Estrategias Mnemotécnicas en contexto del hogar
+  • Herramientas Digitales: Aplicar Herramientas Digitales en contexto del hogar
+
+================================================================================
+Fin del plan de intervención
+================================================================================

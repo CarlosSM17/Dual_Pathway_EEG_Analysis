@@ -1,0 +1,246 @@
+{
+  "student_info": {
+    "subject_id": "v204",
+    "adhd_diagnosis": "ADHD",
+    "adhd_probability": 0.987214207649231,
+    "dominant_profile": "Atención Sostenida Estable",
+    "severity_category": "Normal",
+    "severity_score": 9.140107686429161,
+    "date_created": "2025-12-23T13:43:24.830735"
+  },
+  "needs_analysis": {
+    "priority_areas": [
+      "self_regulation",
+      "cognitive_flexibility"
+    ],
+    "severity_level": "Normal",
+    "primary_challenges": [
+      "Dificultades de autorregulación",
+      "Rigidez cognitiva"
+    ],
+    "strengths": [
+      "Buena atención sostenida en periodos cortos",
+      "Buena capacidad de recuperación"
+    ]
+  },
+  "recommended_strategies": {
+    "high_priority": [
+      {
+        "code": "ENV1",
+        "name": "Ubicación Estratégica",
+        "category": "Ambiental",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de atención",
+        "description": "Colocar al estudiante cerca del profesor, lejos de distracciones (ventanas, puertas, compañeros disruptivos)",
+        "implementation": [
+          "Sentar al estudiante en las primeras filas",
+          "Posición cerca del escritorio del profesor",
+          "Evitar asientos cerca de ventanas o puertas",
+          "Alejar de estudiantes con comportamiento disruptivo",
+          "Considerar asiento junto a estudiantes modelo"
+        ],
+        "materials_needed": [
+          "Reorganización del salón"
+        ],
+        "time_investment": "Bajo"
+      },
+      {
+        "code": "BEH1",
+        "name": "Reforzamiento Positivo",
+        "category": "Conductual",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de comportamiento deseado",
+        "description": "Sistema de recompensas por comportamientos y logros específicos",
+        "implementation": [
+          "Establecer sistema de puntos o fichas",
+          "Proporcionar retroalimentación positiva inmediata",
+          "Usar refuerzos tangibles e intangibles",
+          "Celebrar pequeños logros frecuentemente",
+          "Mantener ratio alto de comentarios positivos vs negativos (5:1)"
+        ],
+        "materials_needed": [
+          "Sistema de puntos",
+          "Recompensas",
+          "Gráficas de progreso"
+        ],
+        "time_investment": "Moderado"
+      }
+    ],
+    "moderate_priority": [
+      {
+        "code": "INS2",
+        "name": "Instrucciones Multimodales",
+        "category": "Instruccional",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de comprensión",
+        "description": "Presentar información usando múltiples modalidades (visual, auditiva, kinestésica)",
+        "implementation": [
+          "Combinar instrucciones verbales con visuales",
+          "Usar diagramas, gráficos y organizadores visuales",
+          "Incorporar elementos táctiles o manipulativos",
+          "Repetir información importante en diferentes formatos",
+          "Verificar comprensión pidiendo al estudiante que parafrasee"
+        ],
+        "materials_needed": [
+          "Materiales visuales",
+          "Organizadores gráficos",
+          "Manipulativos"
+        ],
+        "time_investment": "Moderado"
+      },
+      {
+        "code": "INS4",
+        "name": "Organizadores Gráficos",
+        "category": "Instruccional",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de comprensión y organización",
+        "description": "Usar mapas conceptuales, diagramas y estructuras visuales",
+        "implementation": [
+          "Proporcionar organizadores gráficos pre-elaborados",
+          "Enseñar a crear mapas mentales",
+          "Usar líneas de tiempo para secuencias",
+          "Implementar diagramas de Venn para comparaciones",
+          "Utilizar matrices para organizar información"
+        ],
+        "materials_needed": [
+          "Plantillas de organizadores",
+          "Software de mapas mentales"
+        ],
+        "time_investment": "Moderado"
+      },
+      {
+        "code": "BEH2",
+        "name": "Auto-monitoreo",
+        "category": "Conductual",
+        "evidence": "Moderado",
+        "expected_impact": "Incremento de motivación, auto-conciencia y auto-regulación",
+        "description": "Enseñar al estudiante a monitorear y registrar su propio comportamiento",
+        "implementation": [
+          "Crear listas de verificación de auto-evaluación",
+          "Usar timers/alarmas para auto-chequeos",
+          "Registrar progreso en gráficas personales",
+          "Establecer metas personales medibles",
+          "Revisar regularmente el progreso con el estudiante"
+        ],
+        "materials_needed": [
+          "Hojas de auto-monitoreo",
+          "Timers",
+          "Gráficas de progreso"
+        ],
+        "time_investment": "Alto"
+      },
+      {
+        "code": "MOV2",
+        "name": "Asiento Flexible",
+        "category": "Descanso/Movimiento",
+        "evidence": "Moderado",
+        "expected_impact": "Reducción de inquietud, incremento de tiempo en tarea",
+        "description": "Opciones de asientos alternativos que permiten movimiento",
+        "implementation": [
+          "Balones de ejercicio como asientos",
+          "Bandas elásticas en patas de sillas",
+          "Escritorios de pie (standing desks)",
+          "Cojines de aire o wobble cushions",
+          "Permitir cambio de posición frecuente"
+        ],
+        "materials_needed": [
+          "Asientos alternativos",
+          "Balones",
+          "Bandas elásticas"
+        ],
+        "time_investment": "Bajo"
+      }
+    ],
+    "supplementary": [
+      {
+        "code": "COG2",
+        "name": "Estrategias Mnemotécnicas",
+        "category": "Cognitiva",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de retención y recuperación",
+        "description": "Enseñar técnicas de memoria para retener información",
+        "implementation": [
+          "Acrónimos y acrósticos",
+          "Método de loci (palacio de memoria)",
+          "Rimas y canciones",
+          "Asociaciones visuales",
+          "Técnica de la cadena (linking)"
+        ],
+        "materials_needed": [
+          "Guías de mnemotécnicas",
+          "Tarjetas de memoria"
+        ],
+        "time_investment": "Moderado"
+      },
+      {
+        "code": "TEC1",
+        "name": "Herramientas Digitales",
+        "category": "Tecnológica",
+        "evidence": "Moderado",
+        "expected_impact": "Apoyo organizacional y motivacional",
+        "description": "Uso de aplicaciones y software para organización y concentración",
+        "implementation": [
+          "Apps de gestión de tiempo (ej. Forest, Focus@Will)",
+          "Software de organización (ej. Notion, Trello)",
+          "Recordatorios y alarmas",
+          "Apps de bloqueo de distracciones",
+          "Herramientas de texto-a-voz o voz-a-texto"
+        ],
+        "materials_needed": [
+          "Dispositivo digital",
+          "Licencias de software"
+        ],
+        "time_investment": "Moderado"
+      }
+    ]
+  },
+  "implementation_timeline": {
+    "phase_1_immediate": [
+      "ENV1",
+      "BEH1"
+    ],
+    "phase_2_short_term": [
+      "INS2",
+      "INS4",
+      "BEH2",
+      "MOV2"
+    ],
+    "phase_3_long_term": [
+      "COG2",
+      "TEC1"
+    ]
+  },
+  "monitoring_plan": {
+    "frequency": "Semanal durante primer mes, luego quincenal",
+    "metrics": [
+      "Completación de tareas",
+      "Tiempo en tarea",
+      "Calidad del trabajo",
+      "Comportamiento en clase",
+      "Auto-reporte del estudiante"
+    ],
+    "adjustment_criteria": "Revisar y ajustar si no hay mejoría en 4 semanas"
+  },
+  "parent_teacher_collaboration": {
+    "communication_frequency": "Semanal",
+    "shared_strategies": [],
+    "home_extension": [
+      {
+        "strategy": "Reforzamiento Positivo",
+        "adaptation": "Aplicar Reforzamiento Positivo en contexto del hogar"
+      },
+      {
+        "strategy": "Auto-monitoreo",
+        "adaptation": "Aplicar Auto-monitoreo en contexto del hogar"
+      },
+      {
+        "strategy": "Estrategias Mnemotécnicas",
+        "adaptation": "Aplicar Estrategias Mnemotécnicas en contexto del hogar"
+      },
+      {
+        "strategy": "Herramientas Digitales",
+        "adaptation": "Aplicar Herramientas Digitales en contexto del hogar"
+      }
+    ]
+  }
+}

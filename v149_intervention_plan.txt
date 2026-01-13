@@ -1,0 +1,104 @@
+================================================================================
+PLAN DE INTERVENCIÓN EDUCATIVA PERSONALIZADO
+================================================================================
+
+INFORMACIÓN DEL ESTUDIANTE
+--------------------------------------------------------------------------------
+ID: v149
+Diagnóstico: Control (probabilidad: 10.89%)
+Perfil Dominante: Variabilidad Alta con Recuperación
+Severidad: Leve (score: 38.3)
+Fecha de creación: 2025-12-23T13:43:24.792636
+
+ANÁLISIS DE NECESIDADES
+--------------------------------------------------------------------------------
+Nivel de severidad: Leve
+
+Desafíos principales:
+  • Dificultades de autorregulación
+  • Rigidez cognitiva
+  • Alta variabilidad requiere estructura
+
+Fortalezas:
+
+ESTRATEGIAS RECOMENDADAS
+================================================================================
+
+🔴 PRIORIDAD ALTA (Implementar inmediatamente):
+--------------------------------------------------------------------------------
+
+1. INS1: Segmentación de Tareas
+   Categoría: Instruccional
+   Evidencia: Alto
+   Impacto esperado: Incremento de completación de tareas
+   Descripción: Dividir tareas largas en segmentos manejables con checkpoints
+   Implementación:
+     • Dividir asignaciones largas en pasos pequeños
+     • Proporcionar una tarea a la vez
+     • Usar listas de verificación para cada paso
+     • Celebrar la completación de cada segmento
+     • Proporcionar retroalimentación frecuente
+   Materiales: Listas de verificación, Timers visuales
+
+2. MOV1: Pausas de Movimiento
+   Categoría: Descanso/Movimiento
+   Evidencia: Alto
+   Impacto esperado: Renovación de atención
+   Descripción: Pausas programadas para actividad física
+   Implementación:
+     • Pausas de 2-3 minutos cada 20-30 minutos
+     • Permitir fidgets o movimiento controlado
+     • Ejercicios de estiramiento en el asiento
+     • Oportunidades de levantarse (borrar pizarra, repartir materiales)
+     • Brain breaks con movimiento (yoga, jumping jacks)
+   Materiales: Fidgets, Espacio para movimiento, Timer
+
+
+🟡 PRIORIDAD MODERADA (Implementar en 2-4 semanas):
+--------------------------------------------------------------------------------
+
+1. INS4: Organizadores Gráficos
+   Impacto esperado: Incremento de comprensión y organización
+   Descripción: Usar mapas conceptuales, diagramas y estructuras visuales
+
+
+🟢 ESTRATEGIAS SUPLEMENTARIAS (Considerar después de 1-2 meses):
+--------------------------------------------------------------------------------
+1. COG2: Estrategias Mnemotécnicas
+2. TEC1: Herramientas Digitales
+
+
+LÍNEA DE TIEMPO DE IMPLEMENTACIÓN
+================================================================================
+
+Fase 1 (Semana 1-2): INS1, MOV1
+Fase 2 (Semana 3-6): INS4
+Fase 3 (2-6 meses): COG2, TEC1
+
+
+PLAN DE MONITOREO
+================================================================================
+Frecuencia: Semanal durante primer mes, luego quincenal
+
+Métricas a evaluar:
+  • Completación de tareas
+  • Tiempo en tarea
+  • Calidad del trabajo
+  • Comportamiento en clase
+  • Auto-reporte del estudiante
+
+Criterios de ajuste: Revisar y ajustar si no hay mejoría en 4 semanas
+
+
+COLABORACIÓN PADRES-MAESTROS
+================================================================================
+Frecuencia de comunicación: Semanal
+
+Extensión al hogar:
+  • Pausas de Movimiento: Aplicar Pausas de Movimiento en contexto del hogar
+  • Estrategias Mnemotécnicas: Aplicar Estrategias Mnemotécnicas en contexto del hogar
+  • Herramientas Digitales: Aplicar Herramientas Digitales en contexto del hogar
+
+================================================================================
+Fin del plan de intervención
+================================================================================

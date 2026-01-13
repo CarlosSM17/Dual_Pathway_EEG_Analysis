@@ -1,0 +1,175 @@
+{
+  "student_info": {
+    "subject_id": "v149",
+    "adhd_diagnosis": "Control",
+    "adhd_probability": 0.1088683828711509,
+    "dominant_profile": "Variabilidad Alta con Recuperación",
+    "severity_category": "Leve",
+    "severity_score": 38.26223432469881,
+    "date_created": "2025-12-23T13:43:24.792636"
+  },
+  "needs_analysis": {
+    "priority_areas": [
+      "self_regulation",
+      "cognitive_flexibility"
+    ],
+    "severity_level": "Leve",
+    "primary_challenges": [
+      "Dificultades de autorregulación",
+      "Rigidez cognitiva",
+      "Alta variabilidad requiere estructura"
+    ],
+    "strengths": []
+  },
+  "recommended_strategies": {
+    "high_priority": [
+      {
+        "code": "INS1",
+        "name": "Segmentación de Tareas",
+        "category": "Instruccional",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de completación de tareas",
+        "description": "Dividir tareas largas en segmentos manejables con checkpoints",
+        "implementation": [
+          "Dividir asignaciones largas en pasos pequeños",
+          "Proporcionar una tarea a la vez",
+          "Usar listas de verificación para cada paso",
+          "Celebrar la completación de cada segmento",
+          "Proporcionar retroalimentación frecuente"
+        ],
+        "materials_needed": [
+          "Listas de verificación",
+          "Timers visuales"
+        ],
+        "time_investment": "Moderado"
+      },
+      {
+        "code": "MOV1",
+        "name": "Pausas de Movimiento",
+        "category": "Descanso/Movimiento",
+        "evidence": "Alto",
+        "expected_impact": "Renovación de atención",
+        "description": "Pausas programadas para actividad física",
+        "implementation": [
+          "Pausas de 2-3 minutos cada 20-30 minutos",
+          "Permitir fidgets o movimiento controlado",
+          "Ejercicios de estiramiento en el asiento",
+          "Oportunidades de levantarse (borrar pizarra, repartir materiales)",
+          "Brain breaks con movimiento (yoga, jumping jacks)"
+        ],
+        "materials_needed": [
+          "Fidgets",
+          "Espacio para movimiento",
+          "Timer"
+        ],
+        "time_investment": "Bajo"
+      }
+    ],
+    "moderate_priority": [
+      {
+        "code": "INS4",
+        "name": "Organizadores Gráficos",
+        "category": "Instruccional",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de comprensión y organización",
+        "description": "Usar mapas conceptuales, diagramas y estructuras visuales",
+        "implementation": [
+          "Proporcionar organizadores gráficos pre-elaborados",
+          "Enseñar a crear mapas mentales",
+          "Usar líneas de tiempo para secuencias",
+          "Implementar diagramas de Venn para comparaciones",
+          "Utilizar matrices para organizar información"
+        ],
+        "materials_needed": [
+          "Plantillas de organizadores",
+          "Software de mapas mentales"
+        ],
+        "time_investment": "Moderado"
+      }
+    ],
+    "supplementary": [
+      {
+        "code": "COG2",
+        "name": "Estrategias Mnemotécnicas",
+        "category": "Cognitiva",
+        "evidence": "Alto",
+        "expected_impact": "Incremento de retención y recuperación",
+        "description": "Enseñar técnicas de memoria para retener información",
+        "implementation": [
+          "Acrónimos y acrósticos",
+          "Método de loci (palacio de memoria)",
+          "Rimas y canciones",
+          "Asociaciones visuales",
+          "Técnica de la cadena (linking)"
+        ],
+        "materials_needed": [
+          "Guías de mnemotécnicas",
+          "Tarjetas de memoria"
+        ],
+        "time_investment": "Moderado"
+      },
+      {
+        "code": "TEC1",
+        "name": "Herramientas Digitales",
+        "category": "Tecnológica",
+        "evidence": "Moderado",
+        "expected_impact": "Apoyo organizacional y motivacional",
+        "description": "Uso de aplicaciones y software para organización y concentración",
+        "implementation": [
+          "Apps de gestión de tiempo (ej. Forest, Focus@Will)",
+          "Software de organización (ej. Notion, Trello)",
+          "Recordatorios y alarmas",
+          "Apps de bloqueo de distracciones",
+          "Herramientas de texto-a-voz o voz-a-texto"
+        ],
+        "materials_needed": [
+          "Dispositivo digital",
+          "Licencias de software"
+        ],
+        "time_investment": "Moderado"
+      }
+    ]
+  },
+  "implementation_timeline": {
+    "phase_1_immediate": [
+      "INS1",
+      "MOV1"
+    ],
+    "phase_2_short_term": [
+      "INS4"
+    ],
+    "phase_3_long_term": [
+      "COG2",
+      "TEC1"
+    ]
+  },
+  "monitoring_plan": {
+    "frequency": "Semanal durante primer mes, luego quincenal",
+    "metrics": [
+      "Completación de tareas",
+      "Tiempo en tarea",
+      "Calidad del trabajo",
+      "Comportamiento en clase",
+      "Auto-reporte del estudiante"
+    ],
+    "adjustment_criteria": "Revisar y ajustar si no hay mejoría en 4 semanas"
+  },
+  "parent_teacher_collaboration": {
+    "communication_frequency": "Semanal",
+    "shared_strategies": [],
+    "home_extension": [
+      {
+        "strategy": "Pausas de Movimiento",
+        "adaptation": "Aplicar Pausas de Movimiento en contexto del hogar"
+      },
+      {
+        "strategy": "Estrategias Mnemotécnicas",
+        "adaptation": "Aplicar Estrategias Mnemotécnicas en contexto del hogar"
+      },
+      {
+        "strategy": "Herramientas Digitales",
+        "adaptation": "Aplicar Herramientas Digitales en contexto del hogar"
+      }
+    ]
+  }
+}
